@@ -1,0 +1,4 @@
+source host: https://www.ensembl.org
+retrieved: 2026-10-19
+min_confidence: 0
+rows: 9488
